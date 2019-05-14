@@ -4,7 +4,7 @@ import java.io.*;
 
 public class Main {
 
-    private static Logger logger = Logger.getLogger(Main.class);
+    private final static Logger logger = Logger.getLogger(Main.class);
 
     public static void main(String[] args) throws IOException {
         String temporaryString;
